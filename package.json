@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "ssh2": "^0.5.5",
+    "ssh2": "^1.4.0",
     "winston": "^3.0.0-rc1"
   },
   "devDependencies": {},
